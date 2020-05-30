@@ -8,4 +8,5 @@ python [NAME OF THE PYTHON FILE] -i [IMAGE FILE PATH]
 #### python colorDetection.py -i colorpic.jpg
 
 ![Color Detection GIF](https://user-images.githubusercontent.com/15246084/83334667-b0ff4d80-a2c5-11ea-9112-c268fd05676f.gif)
+
 (GIF)
